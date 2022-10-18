@@ -16,8 +16,9 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-I'm currently work like Web Developer at Sistemi Tre srl<br>
-
+- 💼 I'm currently work like Web Developer at Sistemi Tre srl<br>
+- 🌱 I’m currently learning at University of Turin<br>
+- 📫 How to reach me: saglietti.luca@gmail.com
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sgluca01) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/saglietti.luca) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/luca-saglietti) 
